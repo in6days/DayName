@@ -106,3 +106,6 @@ elif (cc == 20) and (dd != 20) and (m == 11 or m == 12) and a == 6:
     print('بل هو الجمعة')
 
 print('==========')
+
+#in6days
+
